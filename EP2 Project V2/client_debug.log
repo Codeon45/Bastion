@@ -1,0 +1,71 @@
+2025-05-12 11:19:38,972 - Client started.
+2025-05-12 11:19:41,032 - Connected to server.
+2025-05-12 11:19:45,674 - Sent to server: Hello
+2025-05-12 11:19:45,675 - Received from server: Server received: Hello
+2025-05-12 11:19:59,914 - Client exited.
+2025-05-12 11:21:27,767 - Client started.
+2025-05-12 11:21:29,830 - Error: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1020)
+2025-05-12 11:23:11,536 - Client started.
+2025-05-12 11:23:13,596 - Secure SSL connection established.
+2025-05-12 11:23:17,700 - Sent to server: Hello
+2025-05-12 11:23:17,700 - Received from server: Server received (SSL): Hello
+2025-05-12 11:24:52,803 - Client exited.
+2025-05-12 11:25:46,188 - Client started.
+2025-05-12 11:25:59,794 - Error: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-05-12 11:28:10,395 - Client started.
+2025-05-12 11:28:25,890 - Error: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-05-12 12:00:45,914 - Client started.
+2025-05-12 12:00:47,995 - Secure SSL connection established.
+2025-05-12 12:00:54,076 - Sent choice: 1
+2025-05-12 12:00:54,076 - Received from server: REGISTER or LOGIN: 
+2025-05-12 12:00:58,236 - Sent choice: 1
+2025-05-12 12:00:58,236 - Error: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-05-12 13:44:24,233 - Client started.
+2025-05-12 13:44:26,302 - Secure SSL connection established.
+2025-05-12 13:44:29,835 - Sent choice: 1
+2025-05-12 13:44:29,835 - Received from server: REGISTER or LOGIN: 
+2025-05-12 13:44:29,835 - Invalid option or failed to connect.
+2025-05-12 13:44:35,692 - Sent choice: 3
+2025-05-12 13:44:35,692 - Error: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-05-12 13:45:08,970 - Client started.
+2025-05-12 13:45:11,034 - Secure SSL connection established.
+2025-05-12 13:45:13,899 - Sent choice: 1
+2025-05-12 13:45:13,899 - Received from server: REGISTER or LOGIN: 
+2025-05-12 13:45:13,900 - Invalid option or failed to connect.
+2025-05-12 13:45:18,299 - Sent choice: 1
+2025-05-12 13:45:18,299 - Error: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-05-12 13:46:54,163 - Client started.
+2025-05-12 13:46:56,233 - Secure SSL connection established.
+2025-05-12 13:47:00,395 - Sent choice: 1
+2025-05-12 13:47:00,395 - Received from server: REGISTER or LOGIN: 
+2025-05-12 13:47:04,899 - Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-12 13:48:26,326 - Client started.
+2025-05-12 13:48:28,411 - Secure SSL connection established.
+2025-05-12 13:48:31,715 - Received from server: REGISTER or LOGIN: 
+2025-05-12 13:48:31,715 - Invalid option or failed to connect.
+2025-05-12 13:48:40,475 - Received from server: OK
+2025-05-12 13:48:48,547 - Received from server: Invalid username or password.
+2025-05-12 13:48:51,482 - Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-12 13:48:58,676 - Client started.
+2025-05-12 13:49:00,744 - Secure SSL connection established.
+2025-05-12 13:49:12,843 - Received from server: REGISTER or LOGIN: 
+2025-05-12 13:49:12,843 - Invalid option or failed to connect.
+2025-05-12 13:49:15,083 - Received from server: OK
+2025-05-12 13:49:17,714 - Received from server: Registration successful. Please log in.
+2025-05-12 13:49:19,643 - Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-12 13:49:27,820 - Client started.
+2025-05-12 13:49:29,892 - Secure SSL connection established.
+2025-05-12 13:49:31,147 - Received from server: REGISTER or LOGIN: 
+2025-05-12 13:49:31,147 - Invalid option or failed to connect.
+2025-05-12 13:49:32,570 - Received from server: OK
+2025-05-12 13:52:24,701 - Client started.
+2025-05-12 13:52:56,908 - Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-12 13:53:14,448 - Client started.
+2025-05-14 10:13:42,810 - Client started.
+2025-05-14 10:14:00,816 - Error: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-05-14 10:14:00,816 - Client started.
+2025-05-14 10:16:11,620 - Client started.
+2025-05-14 10:16:24,727 - Error: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-05-14 10:16:24,727 - Client started.
+2025-05-14 10:18:58,636 - Client started.
+2025-05-14 10:19:00,704 - Received from server: LOGIN: 

@@ -1,0 +1,58 @@
+# Changelog
+
+All notable changes to **Bastion – Secure Mail Fortress** are documented here.
+
+## [1.0.0] – Initial Version
+### Added
+- Basic secure mail protocol framework using Python sockets.
+- TLS encryption using `ssl` for secure client-server communication.
+- Simple command-line interface for sending and receiving messages.
+- Inbox simulation using JSON files for persistent storage.
+
+## [1.1.0] – Authentication & Encryption
+### Added
+- User authentication system with bcrypt for password hashing.
+- Diffie-Hellman key exchange for session-based encryption.
+- Fernet encryption for message confidentiality.
+- HMAC for message integrity verification.
+- Logging system for failed and successful login attempts.
+
+## [1.2.0] – Security Enhancements
+### Added
+- Brute force protection with login rate limiting and temporary lockouts.
+- Logging of locked users with persistent state saving across sessions.
+- Additional password validation during registration.
+
+## [1.3.0] – Virtualization Testing
+### Added
+- Configuration for running in isolated virtual machines (Ubuntu + Kali).
+- Attack simulations: brute-force, Hydra testing, packet sniffing.
+- Hardened server-side exception handling and SSL error recovery.
+
+## [1.4.0] – Usability Improvements
+### Changed
+- Replaced hardcoded server IP with user prompt.
+- Improved CLI prompts and error messages for better UX.
+- Enhanced password input using `getpass` for hidden input.
+- Minor refactoring for modularity and clarity.
+
+## [1.5.0] – User Registration Feature
+### Added
+- Server-side interactive user registration on launch.
+- Password confirmation during registration for better validation.
+
+## [1.6.0] – GUI Attempt (Abandoned)
+### Added
+- Initial GUI prototype using Tkinter.
+- Login and message UI functionality.
+
+### Removed
+- GUI features dropped due to stability and compatibility issues.
+- Reverted to CLI-only model for reliability and transparency.
+
+## [1.7.0] – Final Version Polishing
+### Added
+- Readme with full setup instructions.
+- Code comments and docstrings for clarity.
+- Optional reflection and documentation for public release.
+- GitHub-ready formatting and publishing instructions.

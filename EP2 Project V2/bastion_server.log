@@ -1,0 +1,30 @@
+2025-05-10 12:02:47,349 - Bastion Secure Server Started...
+2025-05-10 12:05:45,052 - Connection established with ('127.0.0.1', 62311)
+2025-05-10 12:06:02,330 - Encrypted Message from ('127.0.0.1', 62311): b'gAAAAABoHyUKx-YvlAjHhrsI9dlNI36QEskoytje_-xLQ-knCjp0LkAAQwkTFhzrkzQzUrYaBRv2QuvCM4mDiKGSwkwl1YW_01oCFfDsVo_dGZF5fCo6Iw3Uv2ZPa5mqcWRKqOrOBiTM'
+2025-05-10 12:06:02,332 - Decrypted Message from ('127.0.0.1', 62311): This is a secret message, monkaS
+2025-05-10 12:06:02,333 - Connection closed with ('127.0.0.1', 62311)
+2025-05-10 12:12:53,590 - Connection established with ('127.0.0.1', 62418)
+2025-05-10 12:13:44,634 - Encrypted Message from ('127.0.0.1', 62418): b'gAAAAABoHybYdazqbfj8HxTZHfkNIIKTWBXT1u6nlfB87d9k8wzGeMMgxR9zUrd022AgwjaPosNOHZv_m9ejCxdmpNRHVIoUYuhJVunrqErKnwRvS2FGTtA='
+2025-05-10 12:13:44,634 - Decrypted Message from ('127.0.0.1', 62418): this is a secret
+2025-05-10 12:13:44,634 - Connection closed with ('127.0.0.1', 62418)
+2025-05-10 12:29:06,647 - Server shut down manually.
+2025-05-10 12:29:24,641 - Bastion Secure Server Started...
+2025-05-10 12:29:42,451 - Connection established with ('127.0.0.1', 62705)
+2025-05-10 12:29:54,706 - Encrypted Message from ('127.0.0.1', 62705): b'gAAAAABoHyqiGnNxbRl9OR_V2VmrFhHE4GHa7qMa5VIuivdMzVvZRRf1YkkKFhm4xAvyMLkS0yUNYZ8DSDacsLmPMnNW_HgzIIv35415LzkGspm-FwhQ9ZA='
+2025-05-10 12:29:54,708 - Decrypted Message from ('127.0.0.1', 62705): This is a secret
+2025-05-10 12:29:54,709 - Connection closed with ('127.0.0.1', 62705)
+2025-05-10 13:10:31,269 - Server shut down manually.
+2025-05-10 13:10:50,709 - Bastion Secure Server Started...
+2025-05-10 13:11:03,868 - Connection established with ('127.0.0.1', 63398)
+2025-05-10 13:11:16,612 - User 'gAAAAABoHzRU7GhYb0b9wLldaUDsghyTnjIhBa-nopoDyhzf6kchgfelIv0MzFnMEFnpYAHvSiNfW48Ikd0LfMHWecMcZgw2mQ==' connected from ('127.0.0.1', 63398)
+2025-05-10 13:12:31,732 - Error with ('127.0.0.1', 63398): [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-10 13:12:31,733 - Connection closed with ('127.0.0.1', 63398)
+2025-05-10 13:12:48,672 - Connection established with ('127.0.0.1', 63425)
+2025-05-10 13:12:51,901 - User 'gAAAAABoHzSzOgNDzxQx5ajeLKuv2QSyZHq8dzHwgZCzR2shLUW5rdIiTAzAxlrhIkv4SOuU8xDY9LAskgDwZbKEOcMfBD4ZWQ==' connected from ('127.0.0.1', 63425)
+2025-05-12 11:04:35,018 - Bastion Secure Server Started...
+2025-05-12 11:09:11,729 - Bastion Secure Server Started...
+2025-05-12 11:11:19,692 - Connection established with ('127.0.0.1', 53416)
+2025-05-12 11:12:05,310 - Bastion Secure Server Started...
+2025-05-12 11:13:20,751 - Connection established with ('127.0.0.1', 53463)
+2025-05-12 11:13:22,651 - Error with ('127.0.0.1', 53463): [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-12 11:13:22,651 - Connection closed with ('127.0.0.1', 53463)
